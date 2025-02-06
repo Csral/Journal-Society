@@ -76,34 +76,34 @@ $$a = b+c <=> (a-b) = (c-0) = c$$
 
 #### FOr case 3
 
-$$b = a+d
+$$ b = a+d $$
 
-(b-a) = (d-0) = d
-(a-b) = -(b-a) = -d$$
+$$(b-a) = (d-0) = d$$
+$$(a-b) = -(b-a) = -d$$
 
 #### For case 2
 
-$$a = a
+$$a = a$$
 
-so, a + 0 = a + 0
-or, (a - a) = 0 - 0 = 0
+so, $$a + 0 = a + 0$$
+or, $$(a - a) = 0 - 0 = 0$$
 
-So, (a-b) = (a-a)
-$$
+So, $$(a-b) = (a-a)$$
+
 ##### Proof that we have a trichotomy
-$$
+
 say, x = n where n is a positive natural number.
 
-Now, x = (a-b) = n <=> (a-b) = (n-0)
+Now, $$x = (a-b) = n <=> (a-b) = (n-0)$$
 
-so, a = b+n
-or, (a-b) = -n 
+so, $$a = b+n$$
+or, $$(a-b) = -n$$
 
-where, -n = -(n-0) = (0-n)
-so, a+n = b+0 = b
+where, $$-n = -(n-0) = (0-n)$$
+so, $$a+n = b+0 = b$$
 
-Since a = b+n => b+n+n = b (or) n+n = b - b = 0.
-$$
+Since $$a = b+n => b+n+n = b (or) n+n = b - b = 0.$$
+
 Since n is a positive natural number, we have contradiction. Thus, at a given moment any one of the statements may remain true.
 
 Thus, we can conclude the following properties:
@@ -127,8 +127,8 @@ $$x - y = x + (-y)$$
 
 ## Proof
 
-$$x - y = x + (-y)
+$$x - y = x + (-y)$$
 
-<=> (x - 0) + { - (b - 0) } = (a - 0) + (0 - b)
+$$<=> (x - 0) + { - (b - 0) } = (a - 0) + (0 - b)$$
 
-=> (a+0) - (0+b) =x (a+b)$$
+$$=> (a+0) - (0+b) =x (a+b)$$
