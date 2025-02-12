@@ -1,3 +1,4 @@
+# Session 1
 # Integers
 
 **Definition**: (a-b) is an integer if a,b belongs to N (natural numbers). *If (a-b) = (c-d) => a+d = b+c* 
